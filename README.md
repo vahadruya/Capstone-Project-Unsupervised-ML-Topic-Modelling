@@ -1,5 +1,5 @@
 # Topic Modeling of BBC News Articles
-This project is a Capstone Project done as part of the AlmaBetter Data Science course curriculum. A set of 2225 BBC News Articles are analysed to identify the underlying themes and topics within them.
+This project is a Capstone Project done as part of Unsupervised Machine Learning. A set of 2225 BBC News Articles are analysed to identify the underlying themes and topics within them.
 
 <details>
 <summary>Table of Contents</summary>
